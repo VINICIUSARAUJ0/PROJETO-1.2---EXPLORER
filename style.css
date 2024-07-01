@@ -57,3 +57,9 @@ footer img {
   height: 104px;
   display: block;
 }
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (min-width: 769px) {
+}
